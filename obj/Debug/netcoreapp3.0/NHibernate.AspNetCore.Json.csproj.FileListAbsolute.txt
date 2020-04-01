@@ -1,0 +1,7 @@
+D:\Project\AhbapTeam\Ahbapv2.1\NHibernate.Json.Core\bin\Debug\netcoreapp3.0\NHibernate.AspNetCore.Json.deps.json
+D:\Project\AhbapTeam\Ahbapv2.1\NHibernate.Json.Core\bin\Debug\netcoreapp3.0\NHibernate.AspNetCore.Json.dll
+D:\Project\AhbapTeam\Ahbapv2.1\NHibernate.Json.Core\bin\Debug\netcoreapp3.0\NHibernate.AspNetCore.Json.pdb
+D:\Project\AhbapTeam\Ahbapv2.1\NHibernate.Json.Core\obj\Debug\netcoreapp3.0\NHibernate.AspNetCore.Json.AssemblyInfoInputs.cache
+D:\Project\AhbapTeam\Ahbapv2.1\NHibernate.Json.Core\obj\Debug\netcoreapp3.0\NHibernate.AspNetCore.Json.AssemblyInfo.cs
+D:\Project\AhbapTeam\Ahbapv2.1\NHibernate.Json.Core\obj\Debug\netcoreapp3.0\NHibernate.AspNetCore.Json.dll
+D:\Project\AhbapTeam\Ahbapv2.1\NHibernate.Json.Core\obj\Debug\netcoreapp3.0\NHibernate.AspNetCore.Json.pdb

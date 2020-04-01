@@ -1,0 +1,16 @@
+D:\Project\AhbapTeam\Ahbapv2.1\NHibernate.Json.Core\NHibernate.Json.Core\bin\Debug\netcoreapp3.0\NHibernate.Json.Core.deps.json
+D:\Project\AhbapTeam\Ahbapv2.1\NHibernate.Json.Core\NHibernate.Json.Core\bin\Debug\netcoreapp3.0\NHibernate.Json.Core.dll
+D:\Project\AhbapTeam\Ahbapv2.1\NHibernate.Json.Core\NHibernate.Json.Core\bin\Debug\netcoreapp3.0\NHibernate.Json.Core.pdb
+D:\Project\AhbapTeam\Ahbapv2.1\NHibernate.Json.Core\NHibernate.Json.Core\obj\Debug\netcoreapp3.0\NHibernate.Json.Core.csprojAssemblyReference.cache
+D:\Project\AhbapTeam\Ahbapv2.1\NHibernate.Json.Core\NHibernate.Json.Core\obj\Debug\netcoreapp3.0\NHibernate.Json.Core.AssemblyInfoInputs.cache
+D:\Project\AhbapTeam\Ahbapv2.1\NHibernate.Json.Core\NHibernate.Json.Core\obj\Debug\netcoreapp3.0\NHibernate.Json.Core.AssemblyInfo.cs
+D:\Project\AhbapTeam\Ahbapv2.1\NHibernate.Json.Core\NHibernate.Json.Core\obj\Debug\netcoreapp3.0\NHibernate.Json.Core.dll
+D:\Project\AhbapTeam\Ahbapv2.1\NHibernate.Json.Core\NHibernate.Json.Core\obj\Debug\netcoreapp3.0\NHibernate.Json.Core.pdb
+D:\Project\AhbapTeam\Ahbapv2.1\NHibernate.Json.Core\bin\Debug\netcoreapp3.0\NHibernate.Json.Core.deps.json
+D:\Project\AhbapTeam\Ahbapv2.1\NHibernate.Json.Core\bin\Debug\netcoreapp3.0\NHibernate.Json.Core.dll
+D:\Project\AhbapTeam\Ahbapv2.1\NHibernate.Json.Core\bin\Debug\netcoreapp3.0\NHibernate.Json.Core.pdb
+D:\Project\AhbapTeam\Ahbapv2.1\NHibernate.Json.Core\obj\Debug\netcoreapp3.0\NHibernate.Json.Core.csprojAssemblyReference.cache
+D:\Project\AhbapTeam\Ahbapv2.1\NHibernate.Json.Core\obj\Debug\netcoreapp3.0\NHibernate.Json.Core.AssemblyInfoInputs.cache
+D:\Project\AhbapTeam\Ahbapv2.1\NHibernate.Json.Core\obj\Debug\netcoreapp3.0\NHibernate.Json.Core.AssemblyInfo.cs
+D:\Project\AhbapTeam\Ahbapv2.1\NHibernate.Json.Core\obj\Debug\netcoreapp3.0\NHibernate.Json.Core.dll
+D:\Project\AhbapTeam\Ahbapv2.1\NHibernate.Json.Core\obj\Debug\netcoreapp3.0\NHibernate.Json.Core.pdb
